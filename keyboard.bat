@@ -1,0 +1,1 @@
+start pythonw.exe "E:\Git\Right-Click-and-Shortcuts\yosh.py"

@@ -19,7 +19,7 @@ byref = ctypes.byref
 user32 = ctypes.windll.user32
 
 HOTKEYS = {
-  1 : (win32con.VK_F3, win32con.MOD_WIN),
+  1 : (win32con.VK_F2, win32con.MOD_WIN),
   2 : (win32con.VK_F4, win32con.MOD_WIN)
 }
 
